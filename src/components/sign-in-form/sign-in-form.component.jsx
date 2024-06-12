@@ -4,6 +4,7 @@ import {
   reateAuthUserWithEmailAndPassword,
   createUserDocumentFromAuth,
   signInWithGooglePopUp,
+  signInAuthUserWithEmailAndPassword,
 } from "../../utils/firebase.utils";
 
 import FormInput from "../form-input/form-input.component";
@@ -45,7 +46,15 @@ const SignInForm = () => {
     const { email, password } = formFields;
 
     try {
-    } catch (error) {}
+      const response = await signInAuthUserWithEmailAndPassword(
+        email,
+        password
+      );
+      console.log(response);
+    } catch (error) {
+      console.log(error.code === "auth/invalid-credential");
+      alert("Invalid login credentials");
+    }
     resetFormFields();
   };
 
@@ -70,10 +79,16 @@ const SignInForm = () => {
           name="password"
           value={password}
         />
-        <Button type="submit">Sign In</Button>
-        <Button onClick={signInWithGoogle} buttonType={"google"}>
-          Google Sign In
-        </Button>
+        <div className="buttons-container">
+          <Button type="submit">Sign In</Button>
+          <Button
+            type="button"
+            onClick={signInWithGoogle}
+            buttonType={"google"}
+          >
+            Google Sign In
+          </Button>
+        </div>
       </form>
     </div>
   );
