@@ -2,151 +2,151 @@
   {
     "id": 1,
     "name": "Christel",
-    "cost": "$20.95",
+    "price": "20.95",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 2,
     "name": "Tiffany",
-    "cost": "$60.51",
+    "price": "60.51",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 3,
     "name": "Clarinda",
-    "cost": "$165.13",
+    "price": "165.13",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 4,
     "name": "Yoshiko",
-    "cost": "$120.64",
+    "price": "120.64",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 5,
     "name": "Michele",
-    "cost": "$7.44",
+    "price": "7.44",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 6,
     "name": "Chrystel",
-    "cost": "$490.82",
+    "price": "490.82",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 7,
     "name": "Evelina",
-    "cost": "$71.47",
+    "price": "71.47",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 8,
     "name": "Cinda",
-    "cost": "$158.60",
+    "price": "158.60",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 9,
     "name": "Cathryn",
-    "cost": "$35.42",
+    "price": "35.42",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 10,
     "name": "Vinita",
-    "cost": "$188.21",
+    "price": "188.21",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 11,
     "name": "Thomasina",
-    "cost": "$85.79",
+    "price": "85.79",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 12,
     "name": "Caryl",
-    "cost": "$1.96",
+    "price": "1.96",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 13,
     "name": "Phebe",
-    "cost": "$479.75",
+    "price": "479.75",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 14,
     "name": "Melly",
-    "cost": "$216.33",
+    "price": "216.33",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 15,
     "name": "Eleni",
-    "cost": "$345.35",
+    "price": "345.35",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 16,
     "name": "Ingeborg",
-    "cost": "$14.22",
+    "price": "14.22",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 17,
     "name": "Charlotta",
-    "cost": "$435.91",
+    "price": "435.91",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 18,
     "name": "Hayley",
-    "cost": "$480.28",
+    "price": "480.28",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 19,
     "name": "Sharai",
-    "cost": "$12.59",
+    "price": "12.59",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 20,
     "name": "Juli",
-    "cost": "$202.63",
+    "price": "202.63",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 21,
     "name": "Fionnula",
-    "cost": "$79.89",
+    "price": "79.89",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 22,
     "name": "Julita",
-    "cost": "$485.91",
+    "price": "485.91",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 23,
     "name": "Bathsheba",
-    "cost": "$75.08",
+    "price": "75.08",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 24,
     "name": "Amberly",
-    "cost": "$270.43",
+    "price": "270.43",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   },
   {
     "id": 25,
     "name": "Antonella",
-    "cost": "$205.94",
+    "price": "205.94",
     "imageUrl": "https://novelkeys.com/cdn/shop/files/GMK_CYL_BlackSnail_TILE_1512x.jpg?v=1717578666"
   }
 ]
