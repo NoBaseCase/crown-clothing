@@ -1,6 +1,6 @@
-import { Outlet } from "react-router-dom";
-import Directory from "../../components/directory/directory.component.jsx";
-import "../../categories.styles.scss";
+import { Outlet } from 'react-router-dom';
+
+import Directory from '../../components/directory/directory.component';
 
 const Home = () => {
   return (
